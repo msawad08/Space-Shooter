@@ -1,0 +1,36 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics (ID=0x106)
+    Vendor:   Intel
+    VRAM:     419 MB
+    Driver:   8.15.10.2696
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\sawad\unityprojects\New Unity Project\Space Shooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\sawad\unityprojects\New Unity Project\Space Shooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\sawad\unityprojects\New Unity Project\Space Shooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\sawad\unityprojects\New Unity Project\Space Shooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\sawad\unityprojects\New Unity Project\Space Shooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\sawad\unityprojects\New Unity Project\Space Shooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\sawad\unityprojects\New Unity Project\Space Shooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\sawad\unityprojects\New Unity Project\Space Shooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\sawad\unityprojects\New Unity Project\Space Shooter_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\sawad\unityprojects\New Unity Project\Space Shooter_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.253 seconds
+Platform assembly: D:\sawad\unityprojects\New Unity Project\Space Shooter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\sawad\unityprojects\New Unity Project\Space Shooter_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 37.971523 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1b24 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.144898 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 403.
+Total: 0.635167 ms (FindLiveObjects: 0.062718 ms CreateObjectMapping: 0.059867 ms MarkObjects: 0.493195 ms  DeleteObjects: 0.016534 ms)
+
